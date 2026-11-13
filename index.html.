@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KEEZ AGENT</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#080d18;color:white}
+header{padding:25px;text-align:center;background:#101a2c}
+h1{color:#38a9ff;font-size:36px}
+.hero{text-align:center;padding:75px 20px}
+.hero h2{font-size:32px}
+.hero p{color:#b8c4d8;line-height:1.7}
+.card{background:#111d30;margin:20px;padding:25px;border-radius:15px;text-align:center}
+a{display:inline-block;text-decoration:none;color:white;background:#087bd4;padding:13px 22px;border-radius:8px;margin:8px}
+.whatsapp{background:#168b51}
+footer{text-align:center;padding:25px;color:#9ba8bb}
+</style>
+</head>
+<body>
+<header>
+<h1>KEEZ AGENT</h1>
+<p>Fiable • Sérieux • Serviable</p>
+</header>
+
+<section class="hero">
+<h2>Bienvenue chez KEEZ AGENT</h2>
+<p>Votre partenaire de confiance dans le monde numérique.</p>
+<a href="#contact">Nous contacter</a>
+</section>
+
+<div class="card">
+<h2>Qui sommes-nous ?</h2>
+<p>KEEZ AGENT est un service numérique qui souhaite accompagner ses clients avec sérieux, confiance et professionnalisme.</p>
+</div>
+
+<div class="card" id="contact">
+<h2>Contactez-nous</h2>
+<p>Nous sommes disponibles pour répondre à vos demandes.</p>
+<a class="whatsapp" href="https://wa.me/50941878623">WhatsApp</a>
+<a href="mailto:vpatricechenet@gmail.com">Email</a>
+<a href="https://instagram.com/krezusofc">Instagram</a>
+<p>Téléphone : 41878623</p>
+</div>
+
+<footer>
+<p>© 2026 KEEZ AGENT. Tous droits réservés.</p>
+<p>Créé avec ambition par Villa Patrice.</p>
+</footer>
+</body>
+</html>
